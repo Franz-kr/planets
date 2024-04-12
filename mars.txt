@@ -3,6 +3,4 @@ Cold and dry, but everything is my favorite color
 Das ist eine änderung
 
 neue Zeile
-
-
-ich ändere das als owner
+conflict removed
